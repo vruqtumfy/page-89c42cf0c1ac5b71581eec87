@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://c.xn--jfcloud-9r4kt520aujtd.com/sitemap.xml
